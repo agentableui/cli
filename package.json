@@ -1,6 +1,7 @@
 {
   "name": "@agentableui/cli",
   "version": "0.1.0",
+  "packageManager": "pnpm@10.30.0",
   "description": "CLI tools for AgentableUI — generate manifests, validate configs, manage keys",
   "type": "module",
   "bin": {
